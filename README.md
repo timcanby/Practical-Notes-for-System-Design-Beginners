@@ -32,7 +32,9 @@ Learn the basic principles of how data moves across networks.
 - [What is HTTP? How the Internet Works!](https://www.youtube.com/watch?v=wW2A5SZ3GkI)
 - [Network Devices](https://www.youtube.com/watch?v=H8W9oMNSuwo)
 - [Introduction to Internet Networking](https://www.youtube.com/watch?v=5zI9sG3pjVU)
--  [Network Programming Basics with Python](https://www.youtube.com/watch?v=FGdiSJakIS4)
+- [Network Programming Basics with Python](https://www.youtube.com/watch?v=FGdiSJakIS4)
+
+
 **GitHub:**
 - [Connect your device to the Internet](https://github.com/microsoft/IoT-For-Beginners/blob/main/1-getting-started/lessons/4-connect-internet/README.md)
 
