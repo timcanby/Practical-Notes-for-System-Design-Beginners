@@ -86,6 +86,8 @@ Prepare for the 200-301 CCNA certification:
 
 #### 6. Simulation (Python)
 Explore network simulation tools and scripts to deepen your understanding.
+- **Practical Notes for System Design Beginners:** [Networking and Data Transmission Python Script](https://github.com/timcanby/Practical-Notes-for-System-Design-Beginners/blob/93fd24965c8a7709208c822beabed6a447b856cd/networking-and-data-transmission.py)
+The provided Python code demonstrates the OSI model's layers and simulates data transmission across these layers. It uses socket programming to emulate TCP/IP communication between a client and a server, showcasing how different network protocols (e.g., HTTP, FTP, DNS) interact within the OSI model. Each layer of the OSI model is represented by a class, and the data flow through these layers is visualized using print statements.
 
 **Tools and Scripts:**
 - **GNS3:** [Network Simulation Using GNS3](https://github.com/GNS3/gns3-gui)
