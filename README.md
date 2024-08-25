@@ -49,7 +49,7 @@ Understand the OSI model layers and their functions.
 
 **Additional Reading:**
 - [Network Basics: The 7 Layers of the OSI Model](https://nordlayer.com/learn/other/guide-to-osi-model/)
-- [OSI vs. TCP/IP Model](hhttps://www.fortinet.com/resources/cyberglossary/tcp-ip-model-vs-osi-model)
+- [OSI vs. TCP/IP Model](https://www.fortinet.com/resources/cyberglossary/tcp-ip-model-vs-osi-model)
 
 #### 3. How TCP/IP Fits into Data Transmission
 Study the TCP/IP model and how it enables internet communication.
