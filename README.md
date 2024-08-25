@@ -20,12 +20,10 @@ Learn the basic principles of how data moves across networks.
 **Materials:**
 - [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 - [Transmission of Data Through Networks](https://codecishk.com/index.php/topic/transmission-of-data-through-networks/)
--  [Understanding the Basics of Internet Infrastructure](https://www.cloudflare.com/learning/network-layer/what-is-the-internet/)
 
 **Blog:**
 - [How Data Flows Through the Internet](https://ssudan16.medium.com/how-data-flows-through-the-internet-91790a4d9092)
 - [What Is the Internet? Meaning, Working, and Types](https://www.spiceworks.com/tech/networking/articles/what-is-the-internet/)
-- [The Journey of a Packet Across the Internet](https://www.geeksforgeeks.org/how-does-data-travel-in-the-internet/)
 
 **YouTube:**
 - [Data Flow on the Internet](https://www.youtube.com/watch?v=hDHJxndSups)
@@ -34,10 +32,10 @@ Learn the basic principles of how data moves across networks.
 - [What is HTTP? How the Internet Works!](https://www.youtube.com/watch?v=wW2A5SZ3GkI)
 - [Network Devices](https://www.youtube.com/watch?v=H8W9oMNSuwo)
 - [Introduction to Internet Networking](https://www.youtube.com/watch?v=5zI9sG3pjVU)
-
+-  [Network Programming Basics with Python](https://www.youtube.com/watch?v=FGdiSJakIS4)
 **GitHub:**
 - [Connect your device to the Internet](https://github.com/microsoft/IoT-For-Beginners/blob/main/1-getting-started/lessons/4-connect-internet/README.md)
--  [Network Programming Basics with Python](https://github.com/michaelliao/learn-python3/blob/master/samples/net/test.py)
+
 
 #### 2. The OSI Model and Its Relation to Data Transmission
 Understand the OSI model layers and their functions.
@@ -45,14 +43,20 @@ Understand the OSI model layers and their functions.
 **YouTube:**
 - [OSI Model Deep Dive](https://www.youtube.com/watch?v=oVVlMqsLdro)
 - [OSI Model Layer Attacks, Mitigation & Protocols](https://www.youtube.com/watch?v=CYhpEr8GFok)
-- [Networking: OSI Model Explained](https://www.youtube.com/watch?v=IPvZsTLtg1A)
+- [The OSI Model - Explained by Example](https://www.youtube.com/watch?v=7IS7gigunyI)
 
 **Additional Reading:**
-- [A Complete Guide to the OSI Model](https://www.solarwinds.com/resources/what-is-the-osi-model)
-- [OSI vs. TCP/IP Model](https://www.guru99.com/osi-vs-tcp-ip-model.html)
+- [Network Basics: The 7 Layers of the OSI Model](https://nordlayer.com/learn/other/guide-to-osi-model/)
+- [OSI vs. TCP/IP Model](hhttps://www.fortinet.com/resources/cyberglossary/tcp-ip-model-vs-osi-model)
 
 #### 3. How TCP/IP Fits into Data Transmission
 Study the TCP/IP model and how it enables internet communication.
+
+
+**Materials:**
+- [TCP/IP Model: The Backbone of Modern Digital Communication](https://mkcontroller.com/tcp-ip-model-the-backbone-of-modern-digital-communication/#:~:text=The%20TCP%2FIP%20model%2C%20with,role%20in%20the%20communication%20process.)
+- [What is TCP/IP and How Does it Work?](https://www.techtarget.com/searchnetworking/definition/TCP-IP)
+
 
 **YouTube:**
 - [What is TCP/IP and OSI? // FREE CCNA](https://www.youtube.com/watch?v=CRdL1PcherM)
@@ -60,29 +64,28 @@ Study the TCP/IP model and how it enables internet communication.
 - [Free CCNA | OSI Model & TCP/IP Suite](https://www.youtube.com/watch?v=t-ai8JzhHuY)
 -  [TCP/IP Model: The Backbone of the Internet](https://www.youtube.com/watch?v=5BhPePM1g5g)
 
-**Additional Reading:**
-- [Understanding TCP/IP: The Protocol that Connects the World](https://www.webopedia.com/insights/tcp-ip/)
-- [Difference Between TCP/IP and OSI Model](https://www.geeksforgeeks.org/difference-between-tcp-ip-and-osi-model/)
 
 #### 4. Network Protocols Overview
 Get familiar with key network protocols like HTTP, FTP, and DNS.
 
+**Materials:**
+- [Top 8 Most Popular Network Protocols Explained](https://medium.com/@codezone/top-8-most-popular-network-protocols-explained-52bcedc25ec0)
+- [12 common network protocols and their functions explained](https://www.techtarget.com/searchnetworking/feature/12-common-network-protocols-and-their-functions-explained)
+
+
 **YouTube:**
 - **HTTP and HTTPS Explained:** [HTTP Basics](https://www.youtube.com/watch?v=tb8gHvYlCFs)
-- **FTP Explained:** [Introduction to FTP](https://www.youtube.com/watch?v=clbiZCBj5Gc)
-- **DNS Explained:** [How DNS Works](https://www.youtube.com/watch?v=Wj0od2ag5sk)
+- **FTP Explained:** [Introduction to FTP: File Transfer Protocol for beginners](https://www.youtube.com/watch?v=tQwvcjT1DKk)
+- **DNS Explained:** [Everything You Need to Know About DNS](https://www.youtube.com/watch?v=27r4Bzuj5NQ&t=52s)
 
-**Additional Reading:**
-- [Understanding Network Protocols](https://www.comptia.org/content/articles/understanding-the-basics-of-network-protocols)
-- [A Beginner’s Guide to Network Protocols](https://www.cloudflare.com/learning/network-layer/what-is-a-network-protocol/)
 
 #### 5. Certification
 Prepare for the 200-301 CCNA certification:
 - [200-301 CCNA Certification](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/ccna-200-301.html)
 
 **Additional Resources:**
-- [Official Cert Guide Library (CCNA)](https://www.ciscopress.com/store/ccna-200-301-official-cert-guide-library-9780135792735)
-- [Practice Tests for CCNA 200-301](https://www.udemy.com/course/cisco-ccna-200-301-exam-complete-course-with-practical-labs/)
+- [Official Cert Guide Library (CCNA)](https://www.ciscopress.com/store/ccna-200-301-official-cert-guide-library-9781587147142)
+- [Practice Tests for CCNA 200-301](https://www.learncisco.net/tests/ccna-200-301)
 
 #### 6. Simulation (Python)
 Explore network simulation tools and scripts to deepen your understanding.
@@ -91,12 +94,13 @@ The provided Python code demonstrates the OSI model's layers and simulates data 
 
 **Tools and Scripts:**
 - **GNS3:** [Network Simulation Using GNS3](https://github.com/GNS3/gns3-gui)
-- **Python Networking:** [Python Network Programming](https://github.com/michaelliao/learn-python3/blob/master/samples/net)
-- **Mininet:** [Mininet for Network Emulation](https://github.com/mininet/mininet)
+- **Python Networking:** [Python-Network-Programming-Cookbook-Second-Edition
+](https://github.com/PacktPublishing/Python-Network-Programming-Cookbook-Second-Edition)
+- **Mininet:** [Mininet for Network Emulation](https://mininet.org/)
 
 **Additional Reading:**
-- [Network Simulation with Python](https://realpython.com/python-sockets/)
-- [How to Simulate a Network Using Python](https://pypi.org/project/ns3/)
+- [Network Simulation with Python: Socket Programming in Python](https://docs.python.org/3/library/socket.html)
+- [How to Simulate a Network Using Python: Ns3](https://ns3simulation.com/python-network-simulator/)
 
 
 #### 7. Packet Tracer Overview and Resources
@@ -106,28 +110,15 @@ Cisco Packet Tracer is a powerful network simulation tool used for designing, co
 - **What is Packet Tracer?** Packet Tracer is a network simulation tool developed by Cisco, widely used in networking education to simulate network configurations, visualize network behavior, and troubleshoot network issues.
 
 **YouTube Tutorials:**
-- [Cisco Packet Tracer Basics - Getting Started](https://www.youtube.com/watch?v=CFa__vPGQ98)
-- [How to Use Cisco Packet Tracer](https://www.youtube.com/watch?v=sz1g_IUdNsc)
-- [Network Simulation with Cisco Packet Tracer](https://www.youtube.com/watch?v=Dy_HwS4TxGo)
-- [Packet Tracer Tutorial for Beginners](https://www.youtube.com/watch?v=ImbYxYSc2Xk)
+- [Cisco Packet Tracer | Everything You Need to Know](https://www.youtube.com/watch?v=qZB_biPOBwA)
+- [HFull Cisco Packet Tracer Course](https://youtu.be/OOA7uqSvBNI?si=sMt1Xtsd_5GLsiS_)
 
-**Official Cisco Resources:**
-- [Cisco Packet Tracer Download and Install Guide](https://www.netacad.com/courses/packet-tracer)
-- [Getting Started with Cisco Packet Tracer](https://www.cisco.com/c/en/us/products/collateral/cloud-systems-management/packet-tracer/datasheet-c78-743017.html)
-- [Packet Tracer Activities and Labs](https://www.netacad.com/portal/resources/content/activities-labs-packet-tracer)
 
-**Learning Materials:**
-- **Cisco Networking Academy:** [Cisco Networking Academy Packet Tracer Tutorials](https://www.netacad.com/courses/packet-tracer)
-- **Packet Tracer Lab Exercises:** [Practice Labs and Exercises](https://www.packettracerlabs.com/)
-- **Networking Concepts with Packet Tracer:** [Learn Networking Concepts](https://www.udemy.com/course/networking-concepts-using-cisco-packet-tracer/)
+**Cisco Resources:**
+- [Cisco Packet Tracer Download and Install Guide](https://www.instructoralton.com/packettracer/Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf)
+- [Getting Started with Cisco Packet Tracer](https://learningnetwork.cisco.com/s/question/0D56e0000BHTnDVCQ1/start-your-learning-journey-with-cisco-packet-tracer)
+- [Packet Tracer Activities and Labs](https://learningnetwork.cisco.com/s/article/packet-tracer-labs)
 
-**GitHub Repositories:**
-- [Packet Tracer Lab Examples](https://github.com/rushic24/PacketTracerLabs)
-- [Sample Network Configurations in Packet Tracer](https://github.com/arunramprabhu/PacketTracer_Simulations)
-
-**Additional Reading:**
-- [Packet Tracer Simulation Examples and Case Studies](https://www.packettracernetwork.com/)
-- [Step-by-Step Packet Tracer Tutorials](https://www.pcwdld.com/packet-tracer-guide)
 
 ##  2. Programming Basics
 - **Overview of programming languages (C++, Java, Python, etc.)**: Start with a beginner-friendly language like Python.
